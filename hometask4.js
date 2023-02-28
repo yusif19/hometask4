@@ -9,9 +9,9 @@ for (let i = 0; i < numbers.length; i++) {
 }
 console.log(sum/counter);
 //TASK 2. Verilmis ededler siyahisinda reqemlerinin sayi 2-den boyuk olan ededlerin cemini tapan alqoritm
-var numbers2=[14,3,19,12,7,11],sum2=0;
+var numbers2=[14,323,145,12,7,110],sum2=0;
 for (let i = 0; i < numbers2.length; i++) {
-    if (numbers2[i]>=10&&numbers2[i]<=99) {
+    if (numbers2[i]>=100) {
         sum2+=numbers2[i];
     }
     
