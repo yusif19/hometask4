@@ -18,7 +18,7 @@
             }
             Console.WriteLine(sum / counter);
             //TASK 2. Verilmis ededler siyahisinda reqemlerinin sayi 2-den boyuk olan ededlerin cemini tapan alqoritm
-            int[] numbers2 = { 14, 3, 19, 12, 7, 11 };
+            int[] numbers2 = { 14, 300, 19, 120, 7, 11 };
             int sum2 = 0;
             for (int i = 0; i < numbers2.Length; i++)
             {
