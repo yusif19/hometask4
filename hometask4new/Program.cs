@@ -22,7 +22,7 @@
             int sum2 = 0;
             for (int i = 0; i < numbers2.Length; i++)
             {
-                if (numbers2[i] >= 10 && numbers2[i] <= 99)
+                if (numbers2[i] >= 100)
                 {
                     sum2 += numbers2[i];
                 }
