@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\hometask4\hometask4new\bin\Debug\net6.0\hometask4new.exe
+C:\Users\User\Desktop\hometask4\hometask4new\bin\Debug\net6.0\hometask4new.deps.json
+C:\Users\User\Desktop\hometask4\hometask4new\bin\Debug\net6.0\hometask4new.runtimeconfig.json
+C:\Users\User\Desktop\hometask4\hometask4new\bin\Debug\net6.0\hometask4new.dll
+C:\Users\User\Desktop\hometask4\hometask4new\bin\Debug\net6.0\hometask4new.pdb
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\hometask4new.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\hometask4new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\hometask4new.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\hometask4new.AssemblyInfo.cs
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\hometask4new.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\hometask4new.dll
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\refint\hometask4new.dll
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\hometask4new.pdb
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\hometask4new.genruntimeconfig.cache
+C:\Users\User\Desktop\hometask4\hometask4new\obj\Debug\net6.0\ref\hometask4new.dll
